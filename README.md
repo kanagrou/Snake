@@ -6,7 +6,7 @@
 ![Liscence](https://img.shields.io/github/license/kanagroo/snake)
 
 ### Content
-* [info](#info)
+* [Info](#info)
 * [Languages](#languages)
 * [Setup](#setup)
 * [Screenshots](#screenshots)
